@@ -208,7 +208,9 @@ $$\frac{P_{\text{new}}(T)}{P_{\text{old}}(T)} \approx e^{-g \Delta t}$$
 
 So a 2-month delay at $g = 7\%$ corresponds to a fractional terminal-wealth loss of:
 
-$$1 - e^{-0.07 \cdot 0.17} \approx 1 - 0.988 \approx 0.012 = 1.2\%$$
+$$1 - e^{-0.07 \cdot 0.17} \approx 1 - 0.988 \approx 0.012$$
+
+— that is, about **1.2%**.
 
 A 2-month delay translates to a ~1.2% loss of terminal wealth. Same loss, two units. That equivalence is the whole reason the "time" framing is more useful than the "balance" framing — it generalizes cleanly across regimes, where balance differences don't.
 
