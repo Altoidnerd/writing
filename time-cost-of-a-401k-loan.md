@@ -67,7 +67,7 @@ This is "how long the system takes to evolve under capital alone" — time to gr
 
 $$\tau_c = \frac{p_0}{c}$$
 
-This is "how long your contribution flow takes to recreate your starting wealth from scratch." If $p_0 = \$50\text{k}$ and $c = \$10\text{k/yr}$, then $\tau_c = 5$ years.
+This is "how long your contribution flow takes to recreate your starting wealth from scratch." If $p_0$ = \$50k and $c$ = \$10k/yr, then $\tau_c = 5$ years.
 
 The dimensionless ratio of the two is the **only structural number in the entire problem**:
 
@@ -97,7 +97,7 @@ The **crossover time** $t^{\star}$ is the time to reach $P^{\star}$ starting fro
 
 $$\boxed{ t^{\star} = \frac{1}{g} \ln \left( \frac{2c/g}{p_0 + c/g} \right) }$$
 
-For $p_0 = \$80\text{k}$, $c = \$18\text{k/yr}$, $g = 0.10$: $t^{\star} \approx 3.26$ years.
+For $p_0$ = \$80k, $c$ = \$18k/yr, $g = 0.10$: $t^{\star} \approx 3.26$ years.
 
 Now reason about what the system looks like on either side of this point.
 
@@ -177,16 +177,16 @@ The denominator $F$ is everything. It is the same dimensionless structure as $gp
 
 Take real-feeling numbers:
 
-- $p_0 = \$80\text{k}$
-- $c_0 = \$18\text{k/yr}$ (\$1500/mo)
-- $g = 10\%$
-- $L = \$10\text{k}$
+- $p_0$ = \$80k
+- $c_0$ = \$18k/yr (\$1500/mo)
+- $g = 0.10$ (10%)
+- $L$ = \$10k
 
 Then:
 
 $$\frac{c_1}{c_0} = 1 + \frac{2(0.10)(10\text{k})}{18\text{k} - (0.10)(80\text{k})} = 1 + \frac{2\text{k}}{10\text{k}} = 1.2$$
 
-So $c_1 = \$1800/\text{mo}$.
+So $c_1$ = \$1800/mo.
 
 **A \$10k loan from an \$80k starting balance, at 10% return and \$1500/mo baseline contribution, requires a 20% lift in contributions to fully neutralize.** That's the kind of clean result you can carry around in your head.
 
@@ -297,7 +297,7 @@ Inverting the formula gives the equivalent loan capacity unlocked by a match $\D
 
 $$\boxed{ L_{\text{free}} = \frac{\Delta c}{c_0} \cdot \frac{c_0 - g p_0}{2g} }$$
 
-For the same numbers as above, a match of $\Delta c = \$600/\text{mo}$ gives $L_{\text{free}} \approx \$20\text{k}$.
+For the same numbers as above, a match of $\Delta c$ = \$600/mo gives $L_{\text{free}} \approx$ \$20k.
 
 So a \$600/mo employer match offsets a \$20k loan in the identity-preservation sense. **Employer match is not just free money — it's free repair capacity.** That reframing alone is worth the price of admission for most readers.
 
